@@ -2,3 +2,5 @@ node-files/node_modules
 my-project/node_modules
 node-markov/node_modules
 expressjs/node_modules
+expressjs/express-routing-solution/node_modules
+expressjs/express-shopping-list-solution/node_modules
